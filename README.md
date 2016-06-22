@@ -64,8 +64,25 @@ Lab 9:
 - (Optional) Gaussian-Processes
 
 Lab 10:
-- Dealing with unstructured data 
-- Bag-of-words, TFIDF
+- Topic analysis  
 - LSA
 - LDA 
-- (Optional) Variational Bayes, MCMC, Dirchelet Processes 
+- (Optional) singular-value decomposition 
+- (Optional) Variational Bayes, MCMC, Dirchelet Processes
+
+Lab 11:
+- More on unsupervised learning 
+- K-Means 
+
+Lab 12:
+- Netflix Prize
+- Building recommender systems 
+- Optional (more in-depth look at Matrix Completion)
+
+Lab 13:
+- Deep Learning  
+- Back-Propagation 
+- Stochatic Gradient Decent
+
+Lab 14:
+- More deep learning practice 
