@@ -3,7 +3,7 @@
 ### Overview 
 This material is partly adapted from Mike Bernico's CS 570 class at UIS https://github.com/mbernico/CS570. Each lab
 focuses on a few ideas, consisting of a mix of videos, notes, and programming exercises. There are also optional notes
-that explain why different algorithms work/converge but sometimes require more statistics knowledge. Again no lab depends explicitly on this optional material. Hopefully, after working through these labs, you will feel comfortable with building really cool models! (TODO Make more exiting)
+that explain why different algorithms work/converge but sometimes require more statistics knowledge. Again no lab depends explicitly on this optional material. Hopefully, after working through these labs, you will feel comfortable with building really cool models! 
 
 ### Labs
 
